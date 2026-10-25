@@ -1,0 +1,10 @@
+{
+  "id": "17769115",
+  "company": "FME SRL",
+  "brand": "FME Romania",
+  "status": "activ",
+  "location": ["Cluj-Napoca"],
+  "website": ["https://www.fme.ro"],
+  "career": ["https://apply.workable.com/fme-romania/"],
+  "scraperFile": "https://github.com/peviitor-scrapers/fme-nodejs-scraper/actions/workflows/scrape.yml"
+}
