@@ -7,14 +7,14 @@
 | CIF | 17769115 |
 | Brand | FME Romania |
 | Status | activ |
-| Location | Cluj-Napoca |
+| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PITEŞTI, NR.7, PARTER. ETAJ 1.2.3.4 |
 | Website | [https://www.fme.ro](https://www.fme.ro) |
 | Careers | [https://apply.workable.com/fme-romania/](https://apply.workable.com/fme-romania/) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
 ## Current Job Listings (4)
 
-_Generated: 2026-11-10T14:30:42.375Z_
+_Generated: 2026-11-11T13:45:31.452Z_
 
 ### Senior Data Migration & ETL Engineer
 
