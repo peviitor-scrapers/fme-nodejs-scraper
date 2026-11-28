@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PITEŞTI, NR.7, PARTER. ETAJ 1.2.3.4 |
 | Website | [https://www.fme.ro](https://www.fme.ro) |
 | Careers | [https://apply.workable.com/fme-romania/](https://apply.workable.com/fme-romania/) |
-| Last Scraped | 2026-11-27 |
+| Last Scraped | 2026-11-28 |
 
 ## Current Job Listings (4)
 
-_Generated: 2026-11-27T16:19:53.424Z_
+_Generated: 2026-11-28T15:13:36.442Z_
 
 ### Senior Data Migration & ETL Engineer
 
